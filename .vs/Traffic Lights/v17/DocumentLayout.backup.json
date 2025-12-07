@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Old Tasks\\My Projects\\My Practises\\Desktop\\Desktop Traffic Lights\\Traffic-Light-Simulation-C-WinForms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D313C48-5ECA-482B-82C9-2691321C33CD}|Traffic Lights\\Traffic Lights.csproj|f:\\old tasks\\my projects\\my practises\\desktop\\desktop traffic lights\\traffic-light-simulation-c-winforms\\traffic lights\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D313C48-5ECA-482B-82C9-2691321C33CD}|Traffic Lights\\Traffic Lights.csproj|solutionrelative:traffic lights\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D313C48-5ECA-482B-82C9-2691321C33CD}|Traffic Lights\\Traffic Lights.csproj|f:\\old tasks\\my projects\\my practises\\desktop\\desktop traffic lights\\traffic-light-simulation-c-winforms\\traffic lights\\ctrltrafficlight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D313C48-5ECA-482B-82C9-2691321C33CD}|Traffic Lights\\Traffic Lights.csproj|solutionrelative:traffic lights\\ctrltrafficlight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ctrlTrafficLight.cs",
+              "DocumentMoniker": "F:\\Old Tasks\\My Projects\\My Practises\\Desktop\\Desktop Traffic Lights\\Traffic-Light-Simulation-C-WinForms\\Traffic Lights\\ctrlTrafficLight.cs",
+              "RelativeDocumentMoniker": "Traffic Lights\\ctrlTrafficLight.cs",
+              "ToolTip": "F:\\Old Tasks\\My Projects\\My Practises\\Desktop\\Desktop Traffic Lights\\Traffic-Light-Simulation-C-WinForms\\Traffic Lights\\ctrlTrafficLight.cs",
+              "RelativeToolTip": "Traffic Lights\\ctrlTrafficLight.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T18:17:16.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "F:\\Old Tasks\\My Projects\\My Practises\\Desktop\\Desktop Traffic Lights\\Traffic-Light-Simulation-C-WinForms\\Traffic Lights\\Form1.cs",
+              "RelativeDocumentMoniker": "Traffic Lights\\Form1.cs",
+              "ToolTip": "F:\\Old Tasks\\My Projects\\My Practises\\Desktop\\Desktop Traffic Lights\\Traffic-Light-Simulation-C-WinForms\\Traffic Lights\\Form1.cs",
+              "RelativeToolTip": "Traffic Lights\\Form1.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwB0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T21:22:29.149Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+F:\Traffic Lights\Traffic Lights\bin\Debug\net8.0-windows\Traffic Lights.exe
+F:\Traffic Lights\Traffic Lights\bin\Debug\net8.0-windows\Traffic Lights.deps.json
+F:\Traffic Lights\Traffic Lights\bin\Debug\net8.0-windows\Traffic Lights.runtimeconfig.json
+F:\Traffic Lights\Traffic Lights\bin\Debug\net8.0-windows\Traffic Lights.dll
+F:\Traffic Lights\Traffic Lights\bin\Debug\net8.0-windows\Traffic Lights.pdb
+F:\Traffic Lights\Traffic Lights\obj\Debug\net8.0-windows\Traffic_Lights.Form1.resources
+F:\Traffic Lights\Traffic Lights\obj\Debug\net8.0-windows\Traffic_Lights.Properties.Resources.resources
+F:\Traffic Lights\Traffic Lights\obj\Debug\net8.0-windows\Traffic Lights.csproj.GenerateResource.cache
+F:\Traffic Lights\Traffic Lights\obj\Debug\net8.0-windows\Traffic Lights.GeneratedMSBuildEditorConfig.editorconfig
+F:\Traffic Lights\Traffic Lights\obj\Debug\net8.0-windows\Traffic Lights.AssemblyInfoInputs.cache
+F:\Traffic Lights\Traffic Lights\obj\Debug\net8.0-windows\Traffic Lights.AssemblyInfo.cs
+F:\Traffic Lights\Traffic Lights\obj\Debug\net8.0-windows\Traffic Lights.csproj.CoreCompileInputs.cache
+F:\Traffic Lights\Traffic Lights\obj\Debug\net8.0-windows\Traffic Lights.dll
+F:\Traffic Lights\Traffic Lights\obj\Debug\net8.0-windows\refint\Traffic Lights.dll
+F:\Traffic Lights\Traffic Lights\obj\Debug\net8.0-windows\Traffic Lights.pdb
+F:\Traffic Lights\Traffic Lights\obj\Debug\net8.0-windows\Traffic Lights.genruntimeconfig.cache
+F:\Traffic Lights\Traffic Lights\obj\Debug\net8.0-windows\ref\Traffic Lights.dll
+F:\Traffic Lights\Traffic Lights\obj\Debug\net8.0-windows\Traffic_Lights.ctrlTrafficLights.resources
+F:\Old Tasks\C#\Course 20 (C# level2)\Projects\Traffic Lights\Traffic Lights\bin\Debug\net8.0-windows\Traffic Lights.exe
+F:\Old Tasks\C#\Course 20 (C# level2)\Projects\Traffic Lights\Traffic Lights\bin\Debug\net8.0-windows\Traffic Lights.deps.json
+F:\Old Tasks\C#\Course 20 (C# level2)\Projects\Traffic Lights\Traffic Lights\bin\Debug\net8.0-windows\Traffic Lights.runtimeconfig.json
+F:\Old Tasks\C#\Course 20 (C# level2)\Projects\Traffic Lights\Traffic Lights\bin\Debug\net8.0-windows\Traffic Lights.dll
+F:\Old Tasks\C#\Course 20 (C# level2)\Projects\Traffic Lights\Traffic Lights\bin\Debug\net8.0-windows\Traffic Lights.pdb
+F:\Old Tasks\C#\Course 20 (C# level2)\Projects\Traffic Lights\Traffic Lights\obj\Debug\net8.0-windows\Traffic_Lights.Form1.resources
+F:\Old Tasks\C#\Course 20 (C# level2)\Projects\Traffic Lights\Traffic Lights\obj\Debug\net8.0-windows\Traffic_Lights.Properties.Resources.resources
+F:\Old Tasks\C#\Course 20 (C# level2)\Projects\Traffic Lights\Traffic Lights\obj\Debug\net8.0-windows\Traffic Lights.csproj.GenerateResource.cache
+F:\Old Tasks\C#\Course 20 (C# level2)\Projects\Traffic Lights\Traffic Lights\obj\Debug\net8.0-windows\Traffic Lights.GeneratedMSBuildEditorConfig.editorconfig
+F:\Old Tasks\C#\Course 20 (C# level2)\Projects\Traffic Lights\Traffic Lights\obj\Debug\net8.0-windows\Traffic Lights.AssemblyInfoInputs.cache
+F:\Old Tasks\C#\Course 20 (C# level2)\Projects\Traffic Lights\Traffic Lights\obj\Debug\net8.0-windows\Traffic Lights.AssemblyInfo.cs
+F:\Old Tasks\C#\Course 20 (C# level2)\Projects\Traffic Lights\Traffic Lights\obj\Debug\net8.0-windows\Traffic Lights.csproj.CoreCompileInputs.cache
+F:\Old Tasks\C#\Course 20 (C# level2)\Projects\Traffic Lights\Traffic Lights\obj\Debug\net8.0-windows\Traffic Lights.dll
+F:\Old Tasks\C#\Course 20 (C# level2)\Projects\Traffic Lights\Traffic Lights\obj\Debug\net8.0-windows\refint\Traffic Lights.dll
+F:\Old Tasks\C#\Course 20 (C# level2)\Projects\Traffic Lights\Traffic Lights\obj\Debug\net8.0-windows\Traffic Lights.pdb
+F:\Old Tasks\C#\Course 20 (C# level2)\Projects\Traffic Lights\Traffic Lights\obj\Debug\net8.0-windows\Traffic Lights.genruntimeconfig.cache
+F:\Old Tasks\C#\Course 20 (C# level2)\Projects\Traffic Lights\Traffic Lights\obj\Debug\net8.0-windows\ref\Traffic Lights.dll
+F:\Old Tasks\C#\Course 20 (C# level2)\Projects\Traffic Lights\Traffic Lights\obj\Debug\net8.0-windows\Traffic_Lights.ctrlTrafficLights.resources
+F:\Old Tasks\My Projects\My Practises\Desktop\Desktop_Traffic Lights\Traffic Lights\bin\Debug\net8.0-windows\Traffic Lights.exe
+F:\Old Tasks\My Projects\My Practises\Desktop\Desktop_Traffic Lights\Traffic Lights\bin\Debug\net8.0-windows\Traffic Lights.deps.json
+F:\Old Tasks\My Projects\My Practises\Desktop\Desktop_Traffic Lights\Traffic Lights\bin\Debug\net8.0-windows\Traffic Lights.runtimeconfig.json
+F:\Old Tasks\My Projects\My Practises\Desktop\Desktop_Traffic Lights\Traffic Lights\bin\Debug\net8.0-windows\Traffic Lights.dll
+F:\Old Tasks\My Projects\My Practises\Desktop\Desktop_Traffic Lights\Traffic Lights\bin\Debug\net8.0-windows\Traffic Lights.pdb
+F:\Old Tasks\My Projects\My Practises\Desktop\Desktop_Traffic Lights\Traffic Lights\obj\Debug\net8.0-windows\Traffic_Lights.ctrlTrafficLight.resources
+F:\Old Tasks\My Projects\My Practises\Desktop\Desktop_Traffic Lights\Traffic Lights\obj\Debug\net8.0-windows\Traffic_Lights.Form1.resources
+F:\Old Tasks\My Projects\My Practises\Desktop\Desktop_Traffic Lights\Traffic Lights\obj\Debug\net8.0-windows\Traffic_Lights.Properties.Resources.resources
+F:\Old Tasks\My Projects\My Practises\Desktop\Desktop_Traffic Lights\Traffic Lights\obj\Debug\net8.0-windows\Traffic Lights.csproj.GenerateResource.cache
+F:\Old Tasks\My Projects\My Practises\Desktop\Desktop_Traffic Lights\Traffic Lights\obj\Debug\net8.0-windows\Traffic Lights.GeneratedMSBuildEditorConfig.editorconfig
+F:\Old Tasks\My Projects\My Practises\Desktop\Desktop_Traffic Lights\Traffic Lights\obj\Debug\net8.0-windows\Traffic Lights.AssemblyInfoInputs.cache
+F:\Old Tasks\My Projects\My Practises\Desktop\Desktop_Traffic Lights\Traffic Lights\obj\Debug\net8.0-windows\Traffic Lights.AssemblyInfo.cs
+F:\Old Tasks\My Projects\My Practises\Desktop\Desktop_Traffic Lights\Traffic Lights\obj\Debug\net8.0-windows\Traffic Lights.csproj.CoreCompileInputs.cache
+F:\Old Tasks\My Projects\My Practises\Desktop\Desktop_Traffic Lights\Traffic Lights\obj\Debug\net8.0-windows\Traffic Lights.dll
+F:\Old Tasks\My Projects\My Practises\Desktop\Desktop_Traffic Lights\Traffic Lights\obj\Debug\net8.0-windows\refint\Traffic Lights.dll
+F:\Old Tasks\My Projects\My Practises\Desktop\Desktop_Traffic Lights\Traffic Lights\obj\Debug\net8.0-windows\Traffic Lights.pdb
+F:\Old Tasks\My Projects\My Practises\Desktop\Desktop_Traffic Lights\Traffic Lights\obj\Debug\net8.0-windows\Traffic Lights.genruntimeconfig.cache
+F:\Old Tasks\My Projects\My Practises\Desktop\Desktop_Traffic Lights\Traffic Lights\obj\Debug\net8.0-windows\ref\Traffic Lights.dll
